@@ -24,6 +24,7 @@
   filter: drop-shadow(0 4px 40px rgba(0, 0, 0, 1));
 
   position: relative;
+  top: 50px;
   z-index: 1;
 }
 
@@ -33,6 +34,7 @@
   max-width: 100%;
   height: auto;
   position: relative;
+  top: 50px;
   z-index: 2;
 }
 
@@ -62,5 +64,6 @@
 
 .hero-footer {
   margin-top: 8rem;
+  padding-bottom: 30px;
   text-align: center;
 }

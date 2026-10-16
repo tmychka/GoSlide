@@ -2,6 +2,7 @@
 @import "nav.css";
 @import "btn.css";
 @import "hero.css";
+@import "features.css";
 
 :root {
   --primary: #2C3038;
