@@ -2,6 +2,9 @@
 @import "nav.css";
 @import "btn.css";
 @import "hero.css";
+@import "section.css";
+@import "info.css";
+@import "benefits.css";
 
 :root {
   --primary: #2C3038;
@@ -12,6 +15,8 @@
   --pink-dark: #A6002F;
 
   --z-index-header: 10000;
+
+  --letter-spacing: -3%;
 }
 
 html {
