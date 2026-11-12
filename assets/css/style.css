@@ -1,3 +1,4 @@
+@import "helpers.css";
 @import "header.css";
 @import "nav.css";
 @import "btn.css";
@@ -5,6 +6,9 @@
 @import "section.css";
 @import "info.css";
 @import "benefits.css";
+@import "tech-list.css";
+@import "random-text.css";
+@import "badge.css";
 
 :root {
   --primary: #2C3038;
