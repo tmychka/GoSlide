@@ -8,6 +8,10 @@
   }
 }
 
+.info--reviews {
+  padding: 0 11.5rem;
+}
+
 .info-col {
   flex: 0 1 50%;
 }
