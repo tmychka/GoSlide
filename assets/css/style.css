@@ -9,6 +9,9 @@
 @import "tech-list.css";
 @import "random-text.css";
 @import "badge.css";
+@import "reviews.css";
+@import "slider.css";
+@import "gallery.css";
 
 :root {
   --primary: #2C3038;
