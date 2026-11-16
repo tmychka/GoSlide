@@ -8,12 +8,15 @@
   }
 }
 
-.info-photo,
-.info-content {
+.info--reviews {
+  padding: 0 11.5rem;
+}
+
+.info-col {
   flex: 0 1 50%;
 }
 
-.info-photo img {
+.info-photo {
   display: block;
   max-width: 100%;
   height: auto;
